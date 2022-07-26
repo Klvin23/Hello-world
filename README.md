@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Se inician en este repositorio las practicas en Vue.js prospercity
+```
+practica uno: logo de prospercity y titulo sencillo
+```
