@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="./assets/prosper.png" width="500" height="300">
+  <HelloWorld msg="Pràctica de Vue.js Prospercity"/>
 </template>
 
 <script>
